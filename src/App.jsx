@@ -1,4 +1,4 @@
-import About from "./about";
+import About from "./About"
 import "./App.css";
 import "./About.css";
 import Header from "./Header";
