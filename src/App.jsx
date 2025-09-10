@@ -1,6 +1,6 @@
 import About from "./About"
 import "./App.css";
-import "./About.css";
+import "./about.css";
 import Header from "./Header";
 import Detail, { Rmc } from "./Detail";
 import Manual from "./Manual";
